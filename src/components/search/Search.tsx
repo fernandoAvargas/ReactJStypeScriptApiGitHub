@@ -34,4 +34,4 @@ const handleKeyDown = (e : KeyboardEvent) => {
     )
 }
 
-export default Search
+export default Search;
